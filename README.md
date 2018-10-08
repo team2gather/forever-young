@@ -2,6 +2,23 @@
 
 2nd write of AWS lambda backend for team2gather (this time firebase-free)
 
+## Toolchain
+
+- ReasonML
+- GraphQL-CLI
+- Apollo-Server
+- Serverless
+
+## Setup
+
+Setting for this project can be complicated, you'll need to follow the guides for each piece of the toolchain:
+
+- [serverless guide](./docs/assets/serverless.md)
+
+## References
+
+- https://www.apollographql.com/docs/apollo-server/servers/lambda.html
+
 <h1 align="center"><strong>Boilerplate for an Advanced GraphQL Server w/ TypeScript</strong></h1>
 
 <br />
